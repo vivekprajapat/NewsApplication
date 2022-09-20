@@ -1,0 +1,136 @@
+{
+   "status": "ok",
+   "totalResults": 10,
+   "articles": [
+ {
+   "source": {
+   "id": "bbc-news",
+   "name": "BBC News"
+   },
+   "author": "BBC News",
+   "title": "Zaporizhzhia: Ukraine suggests UN peacekeepers for nuclear plant",
+   "description": "Inspectors who visited the Zaporizhzhia power station last week observed damage caused by shelling.",
+   "url": "http://www.bbc.co.uk/news/world-europe-62820287",
+   "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FE08/production/_126623056_8e83a5720810fc995e79cccb1ba28dc54730a9f90_0_1024_7681000x750.jpg",
+   "publishedAt": "2022-09-07T13:52:23.8784882Z",
+   "content": "By Claudia AllenBBC News\r\nUkraine's nuclear chief has suggested that United Nations peacekeepers could secure the Zaporizhzhia power station. \r\nThe plant has been occupied by Russia since the early d… [+3271 chars]"
+   },
+ {
+   "source": {
+   "id": "bbc-news",
+   "name": "BBC News"
+   },
+   "author": "BBC News",
+   "title": "EU plans Russian gas price cap despite Putin threat",
+   "description": "European Commission chief Ursula von der Leyen says the EU must cut Russia's war revenues.",
+   "url": "http://www.bbc.co.uk/news/world-europe-62817566",
+   "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D25C/production/_126625835_af55abfb0505b7cba743606982c57a08a1f4b8a60_580_5808_32671000x563-1.jpg",
+   "publishedAt": "2022-09-07T13:52:17.1892969Z",
+   "content": "By Paul KirbyBBC News\r\nThe European Union's executive body has proposed capping the price of Russian gas, within hours of Russia's leader condemning the idea as stupidity.\r\nEnergy prices have soared … [+5104 chars]"
+   },
+ {
+   "source": {
+   "id": "bbc-news",
+   "name": "BBC News"
+   },
+   "author": "BBC News",
+   "title": "New York returns $19m worth of stolen art to Italy",
+   "description": "The 58 pieces include a marble head of the goddess Athena dated 200 BC, worth an estimated $3m alone.",
+   "url": "http://www.bbc.co.uk/news/world-us-canada-62819217",
+   "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/728A/production/_126622392_7054c9c0196f19807092f20fa9a9884919f73fb3.jpg",
+   "publishedAt": "2022-09-07T12:52:33.3384946Z",
+   "content": "By Merlyn ThomasBBC News\r\nNew York's district attorney has returned $19m (£16m) worth of stolen art to Italy.\r\nThe 58 pieces include a marble head of the goddess Athena dated 200 BC, worth an estimat… [+1551 chars]"
+   },
+ {
+   "source": {
+   "id": "bbc-news",
+   "name": "BBC News"
+   },
+   "author": "BBC News",
+   "title": "Evacuations as California battles deadly wildfire",
+   "description": "Rapidly-spreading wildfires in southern California have killed two people and torched homes.",
+   "url": "http://www.bbc.co.uk/news/world-us-canada-62821271",
+   "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F1EC/production/_126623916_wildfire.png",
+   "publishedAt": "2022-09-07T12:52:28.7561245Z",
+   "content": "Truss in, Johnson out - the day in 90 seconds. Video, 00:01:32Truss in, Johnson out - the day in 90 seconds"
+   },
+ {
+   "source": {
+   "id": "bbc-news",
+   "name": "BBC News"
+   },
+   "author": "BBC News",
+   "title": "Typhoon Hinnamnor: Seven drown in flooded South Korean car park",
+   "description": "But two people, who were part of a group that had gone to the car park to move their cars, were rescued.",
+   "url": "http://www.bbc.co.uk/news/world-asia-62816374",
+   "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9B6F/production/_126619793_7f58c0f0dcd79b5853502ce529df7e800747d8b0.jpg",
+   "publishedAt": "2022-09-07T12:52:24.4011644Z",
+   "content": "By Frances MaoBBC News\r\nSeven people in South Korea have died after they were trapped in an underground car park during floods caused by Typhoon Hinnamnor.\r\nThey had gone down to move their cars but … [+2431 chars]"
+   },
+ {
+   "source": {
+   "id": "bbc-news",
+   "name": "BBC News"
+   },
+   "author": "BBC News",
+   "title": "Liz Truss PMQs live: Truss faces Starmer at PMQs for first time",
+   "description": "She is taking questions from the Labour leader in the Commons and is set to be grilled on her plans to deal with energy prices.",
+   "url": "http://www.bbc.co.uk/news/live/uk-politics-62812442",
+   "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+   "publishedAt": "2022-09-07T11:07:29.4954725Z",
+   "content": "Coffey attended the final of the Women's Euro 2022 tournament with Truss in JulyImage caption: Coffey attended the final of the Women's Euro 2022 tournament with Truss in July\r\nThérèse Coffey is now … [+1851 chars]"
+   },
+ {
+   "source": {
+   "id": "bbc-news",
+   "name": "BBC News"
+   },
+   "author": "BBC Sport",
+   "title": "Chelsea sack manager Tuchel",
+   "description": "Chelsea sack manager Thomas Tuchel following Tuesday's night's Champions League defeat by Dinamo Zagreb.",
+   "url": "http://www.bbc.co.uk/sport/football/62817993",
+   "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/11787/production/_124395517_bbcbreakingnewsgraphic.jpg",
+   "publishedAt": "2022-09-07T09:52:25.797255Z",
+   "content": "Chelsea have sacked manager Thomas Tuchel following Tuesday's night's Champions League defeat by Dinamo Zagreb.\r\nThe 49-year-old former Borussia Dortmund and Paris St-Germain boss leaves Stamford Bri… [+1006 chars]"
+   },
+ {
+   "source": {
+   "id": "bbc-news",
+   "name": "BBC News"
+   },
+   "author": "BBC News",
+   "title": "Netflix: Saudi Arabia and GCC warn streaming giant over violating 'Islamic values'",
+   "description": "The offending content was not specified - but state TV highlighted two teenage girls kissing.",
+   "url": "http://www.bbc.co.uk/news/world-middle-east-62811522",
+   "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A565/production/_126614324_mediaitem126614097.jpg",
+   "publishedAt": "2022-09-07T09:37:26.7881764Z",
+   "content": "By David GrittenBBC News\r\nGulf Arab states have demanded that Netflix remove all content deemed to violate \"Islamic and societal values and principles\", Saudi media report.\r\nRecent material, includin… [+2302 chars]"
+   },
+ {
+   "source": {
+   "id": "bbc-news",
+   "name": "BBC News"
+   },
+   "author": "BBC News",
+   "title": "Canada stabbings: Town 'shattered' amid stabbings manhunt",
+   "description": "People in Saskatchewan grapple with grief and anger in the wake of the tragedy.",
+   "url": "http://www.bbc.co.uk/news/world-us-canada-62815201",
+   "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17D2D/production/_126618579_microsoftteams-image-13.png",
+   "publishedAt": "2022-09-06T21:52:23.0795801Z",
+   "content": "By Jessica Murphy and Holly HonderichPrince Albert, BBC News\r\nTwo days after a violent stabbing spree in Saskatchewan, the surviving suspect's whereabouts remain unknown. \r\nPolice said Myles Sanderso… [+3734 chars]"
+   },
+ {
+   "source": {
+   "id": "bbc-news",
+   "name": "BBC News"
+   },
+   "author": "BBC News",
+   "title": "Eliza Fletcher: Police identify body found in search for heiress",
+   "description": "The 34-year-old was the granddaughter of a local billionaire.",
+   "url": "http://www.bbc.co.uk/news/world-us-canada-62811661",
+   "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BAE1/production/_126614874_elizafletcher.jpg",
+   "publishedAt": "2022-09-06T16:52:18.6995928Z",
+   "content": "A body found in the search for Eliza Fletcher has been identified as that of the missing Memphis heiress, police say.\r\nThe 34-year-old was abducted while jogging early on Friday morning near the Univ… [+1200 chars]"
+   }
+   ]
+   }
