@@ -2,7 +2,7 @@
 import "./App.css";
 
 // we have erase the function based component, because of we want class based components.
-
+// This is app.js file.
 // then i will enter rcc for class based component.
 
 import React, { Component } from "react";
