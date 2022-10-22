@@ -36,7 +36,7 @@ export class News extends Component {
       articles: parsedData.articles,
       totalResults: parsedData.totalResults,
     });
-    // This above line I dont understand.
+    
   }
 
   handleNextClick = async () => {
@@ -89,7 +89,9 @@ export class News extends Component {
   render() {
     return (
       <div className="container my-3">
-        <h1 className="text-center" style={{marginTop:'70px'}}>NewsMonkey - Top {this.props.category} Headlines</h1>
+        <h1 className="text-center" style={{ marginTop: "70px" }}>
+          NewsMonkey - Top {this.props.category} Headlines
+        </h1>
 
         <div className="row">
           {this.state.articles.map((element) => {

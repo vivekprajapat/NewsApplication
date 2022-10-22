@@ -8,18 +8,12 @@ import "./App.css";
 import React, { Component } from "react";
 import Navbar from "./Components/Navbar";
 import News from "./Components/News";
-import LoadingBar from "react-top-loading-bar";
+// import LoadingBar from "react-top-loading-bar";
 
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 export default class App extends Component {
-  // state = {
-  //   progress:0
-  // }
-
-  // setProgress(progress){
-  //   this.setState({progress:progress})
-  // }
+  
   render() {
     return (
       <div>
